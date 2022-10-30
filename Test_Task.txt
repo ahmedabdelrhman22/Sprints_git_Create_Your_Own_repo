@@ -1,3 +1,4 @@
 line 2 master
 line 1 in test branch
 line 2 in test branch
+line 2 in test branch after commit push
